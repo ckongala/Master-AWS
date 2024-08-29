@@ -25,14 +25,15 @@ To know your mission Ip Address use this command in CMD `ipconfig`
 - **Loopback Address**: `127.0.0.1` is like calling your own phone. It’s used by a computer to test itself. If you call this number, you’re only communicating with your own device.
 
 ### Public vs. Private IP Addresses
+(Ref:- https://www.youtube.com/watch?v=rqc1plzpV-c)
 
 - **Private IP Addresses**: Used within a home or company network. They don't appear on the internet. For example, `192.168.1.1` is a private IP address used in many home networks.
 
 - **Public IP Addresses**: Used on the internet and are unique worldwide. For example, your internet service provider (ISP) assigns you a public IP address so websites and online services can recognize your device.
 
 ### Network Address Translation (NAT)
-
-Imagine you have a house with many rooms (devices) but only one phone line (public IP address). When someone calls, the call goes to the house, and the house decides which room (device) the call should go to. This process of routing calls inside the house using a single phone line is similar to NAT. NAT allows many devices in a private network to share a single public IP address.
+`NAT allows many devices in a private network to share a single public IP address.`
+Imagine you have a house with many rooms (devices) but only one phone line (public IP address). When someone calls, the call goes to the house, and the house decides which room (device) the call should go to. This process of routing calls inside the house using a single phone line is similar to NAT. 
 
 ### Example Scenario
 
