@@ -1,7 +1,3 @@
-Sure, I'll combine the explanations into a cohesive guide, blending simple language with the technical details to make the concept of an AWS VPC clear and easy to understand.
-
----
-
 # AWS VPC Setup Guide
 
 ## Introduction to VPC
