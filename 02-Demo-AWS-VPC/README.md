@@ -62,5 +62,7 @@ Each of these environments can be placed in different subnets within your VPC to
 4. **Configure Route Tables**: Direct traffic efficiently within your VPC and to the internet.
 
 Here’s a simple diagram to visualize your VPC setup:
+![img_vpc](https://github.com/user-attachments/assets/83f128d5-5bf0-4716-bd2f-1888c99441d4)
+
 
 With these steps, you'll have a well-organized VPC where you can securely manage your digital resources. If you have any questions or need further clarification, feel free to ask!
