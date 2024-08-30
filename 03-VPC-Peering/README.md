@@ -76,6 +76,7 @@ By setting up VPC peering, you enable direct, private communication between reso
 - **No IP Overlap:** Ensure that the IP ranges of peered VPCs do not overlap.
 - **No Transits Support:** VPC peering does not support transitive routing between VPCs.
 
-Practice these steps to become proficient in managing VPC peering, and keep these guidelines in mind when preparing for DevOps interviews or real-world AWS scenarios.
+**Image Below**
+![img-vpc-peer](https://github.com/user-attachments/assets/9eb1ecdc-d93e-4b84-8d01-5dab824ff4ea)
 
 Happy networking!
